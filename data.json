@@ -1,0 +1,76 @@
+{
+    "perfil": {
+        "nome": "Luiz Davy Santana de Lacerda",
+        "subtitulo": "💻 Estudante de Desenvolvimento Web | 2º Semestre",
+        "badges": [
+            "📍 Juiz de Fora (MG)",
+            "🎯 Trabalhar em Analise de Sistemas",
+            "📚 Desenvolvimento de Sistemas",
+            "🚀 Em aprendizado"
+        ]
+    },
+    "conhecimentos": [
+        {
+            "nome": "HTML5",
+            "icone": "html5.svg",
+            "status": "concluido",
+            "statusTexto": "📖 Estudando"
+        },
+        {
+            "nome": "CSS3",
+            "icone": "css3.svg",
+            "status": "concluido",
+            "statusTexto": "📖 Estudando"
+        },
+        {
+            "nome": "JavaScript",
+            "icone": "javascript.svg",
+            "status": "estudando",
+            "statusTexto": "📖 Estudando"
+        },
+        {
+            "nome": "Git",
+            "icone": "git.svg",
+            "status": "estudando",
+            "statusTexto": "📖 Estudando"
+        },
+        {
+            "nome": "GitHub",
+            "icone": "github.svg",
+            "status": "estudando",
+            "statusTexto": "📖 Estudando"
+        },
+        {
+            "nome": "VS Code",
+            "icone": "vscode.svg",
+            "status": "concluido",
+            "statusTexto": "✅ Concluído"
+        }
+    ],
+    "projetos": [
+        {
+            "titulo": "Calculadora JS",
+            "icone": "🧮",
+            "descricao": "Calculadora com operações básicas",
+            "link": "https://github.com/Pontooi/calculadora-js"
+        },
+        {
+            "titulo": "Verificador de Idade",
+            "icone": "🎂",
+            "descricao": "Descobre se você é maior de idade",
+            "link": "https://github.com/Pontooi/Verificador-de-idade"
+        },
+        {
+            "titulo": "Jogo da Adivinhação",
+            "icone": "🎯",
+            "descricao": "Tente adivinhar o número secreto",
+            "link": "https://github.com/Pontooi/Jogo-de-adivinha-o"
+        },
+        {
+            "titulo": "Lista de Tarefas",
+            "icone": "📋",
+            "descricao": "CRUD simples com JavaScript",
+            "link": "https://github.com/Pontooi/Lista-de-tarefas"
+        }
+    ]
+}
